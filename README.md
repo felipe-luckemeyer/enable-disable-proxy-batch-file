@@ -2,7 +2,7 @@
 
 ### Como usar
 
-Para poder utilizá-lo em seu computador, precisa alterar a** linha 50** e colocar **seu usuario e sua senha** 😁
+Para poder utilizá-lo em seu computador, precisa alterar a **linha 50** e colocar **seu usuario e sua senha** 😁
 
 ```
 call git config --global http.proxy http://usuario:senha@10.0.10.6:3128
