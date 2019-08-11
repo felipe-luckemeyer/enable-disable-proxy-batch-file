@@ -1,4 +1,5 @@
 ::Este Script foi criado pelo professor Gustavo Schwarz, juntamente com os alunos Felipe Lückemeyer e William Pêz.
+::Para poder utilizá-lo em seu computador, precisa alterar a linha 50 e colocar seu usuario e sua senha ;)
 @ECHO OFF
 :: Limpa a tela (CLear Screen)
 CLS
